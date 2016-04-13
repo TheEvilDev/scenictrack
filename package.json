@@ -1,0 +1,22 @@
+{
+  "name": "scenictrack-server",
+  "version": "1.0.0",
+  "description": "Server for scenic track software",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheEvilDev/scenictrack-server.git"
+  },
+  "author": "Mitchell Lee <mitch@evildev.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheEvilDev/scenictrack-server/issues"
+  },
+  "homepage": "https://github.com/TheEvilDev/scenictrack-server#readme",
+  "dependencies": {
+    "hapi": "^13.3.0"
+  }
+}
